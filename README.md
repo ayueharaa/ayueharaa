@@ -1,16 +1,15 @@
-## Hi there 👋
+# ✨ Hi, I'm Hara ✨  
 
-<!--
-**ayueharaa/ayueharaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you'll find personal projects and study exercises!
 
-Here are some ideas to get you started:
+## 🚀 Technologies
+- 🌐 Frontend: React.js
+- ⚙️ Backend: Node.js
+- 🛠️ Platform: Azure, Power Platform  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Certifications  
+- 📜 Microsoft Certified: Azure Fundamentals
+
+## ⏳ In Progress
+- 📜 Microsoft Certified: Power Platform Fundamentals
+- ⚙️ Bootcamp NTT DATA: Java Backend with Spring AI
