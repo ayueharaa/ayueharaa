@@ -11,5 +11,5 @@ Here you'll find personal projects and study exercises!
 - 📜 Microsoft Certified: Azure Fundamentals
 
 ## ⏳ In Progress
-- 📜 Microsoft Certified: Power Platform Fundamentals
+- 📜 Microsoft Certified: Power Platform Developer Associate
 - ⚙️ Bootcamp NTT DATA: Java Backend with Spring AI
